@@ -633,6 +633,10 @@ div.webmessenger:hover > p.webmessenger-text {
   right: 4%;
   top: 390%;
 }
+.joinin{
+  box-shadow: 100px 100px 100px 700px rgba(128, 128, 128, 0.849);
+
+}
 .j-right-btn {
   border: 2px solid white;
   top: calc(50% - 23px);
