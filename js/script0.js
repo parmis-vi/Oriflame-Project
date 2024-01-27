@@ -58,3 +58,5 @@ $(document).ready(function () {
     right: "0",
   });
 });
+
+var start = alert("برای ورود به صفحه ی دوم از قسمت 'ERUOP' گزینه ی 'UK | UK' را انتخاب کنید")
